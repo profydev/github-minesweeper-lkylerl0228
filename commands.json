@@ -1,3 +1,7 @@
+NU nano 7.2                     commands.json                      Modified
 {
-  "commands": []
+
+    "commands": [
+	"clear A8"
+   ]
 }
